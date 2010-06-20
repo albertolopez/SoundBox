@@ -153,7 +153,7 @@ function do_credits() {
 		echo '<a href="'.$globals['base_url'].'COPYING">'._('código').'</a>,&nbsp;';
 		echo '<a href="http://creativecommons.org/licenses/by-sa/2.5/">'._('gráficos').'</a>,&nbsp;';
 		echo '<a href="http://creativecommons.org/licenses/by/2.5/es/">'._('contenido').'</a></li>';
-		echo '<li><a href="http://websvn.meneame.net/listing.php?repname=meneame&amp;path=/branches/version3/">'._('descargar código').'</a></li>';
+		echo '<li><a href="http://github.com/albertolopez/SoundBox">'._('descargar código').'</a></li>';
 
 	echo '</ul>'."\n";
 	echo '</div>'."\n";
